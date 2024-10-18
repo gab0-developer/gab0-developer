@@ -29,4 +29,4 @@ Full-Stack Web Developer with 2 years of experience in the creation of web appli
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gab0-developer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab0-developer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab0-developer&layout=compact&theme=dark)
